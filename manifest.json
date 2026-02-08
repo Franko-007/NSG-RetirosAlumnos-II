@@ -1,0 +1,26 @@
+{
+  "name": "LBSNG Control de Retiros",
+  "short_name": "LBSNG Retiros",
+  "description": "Sistema de Control de Retiros Escolares - Liceo Bicentenario San Gregorio NSG",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#070a1a",
+  "theme_color": "#002855",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/sxxwfhwK/LOGO-LBSNG-06-237x300.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/sxxwfhwK/LOGO-LBSNG-06-237x300.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "es-CL"
+}
